@@ -21,7 +21,6 @@
     "webpack": "^1.12.9"
   },
   "dependencies": {
-    "async": "^2.6.1",
     "axios": "^0.18.0",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-async-to-generator": "^6.24.1",
@@ -30,7 +29,6 @@
     "css-loader": "^0.28.11",
     "express": "^4.15.2",
     "file-loader": "^1.1.11",
-    "gh-pages": "^1.2.0",
     "nodemon": "^1.17.5",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
