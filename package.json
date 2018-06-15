@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "webpack": "webpack",
-    "start": "npm run webpack && nodemon --exec babel-node -- server",
-    "deploy": "gh-pages -d dist"
+    "start": "npm run webpack && nodemon --exec babel-node -- server"
   },
   "keywords": [],
   "author": "",
